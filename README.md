@@ -9,8 +9,5 @@ Patika.dev eğitimleri sonunda herhangi bir alanda hazırlamam istenen bir web s
 # bootstrap-homework-2
 Patika.dev eğitimleri sonunda İnstagram'ın kopyasını yaptım.
 
-# bootstrap-homework-3
-Patika.dev eğitimleri sonunda Linkedin'in kopyasını yaptım.
-
 # medium-clone-çalışması
 Patika.dev eğitimleri sonunda Medium sitesinin ana sayfasının kopyasını yaptım.
